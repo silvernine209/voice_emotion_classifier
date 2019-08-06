@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Traffic Stopping Turtles</title>
+<!-- this is one way to bring our CSS: --> 
+<!--<link rel="stylesheet" href="stylesheets/main.css"/
+-->
+
+<!-- and this is another way to add CSS ..  --> 
+<style type="text/css">
+body{
+	background: lightblue;
+}
+h1{
+	background: blue;
+}
+</style>
+
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js"></script>
+
+</head>
+
+<body>
+	<h1>This is a pretty awesome header</h1>
+	<p >This is my 1st paragraph</p>
+	<p id="test">This paragraph will actually have content & here it is:  <br>
+	baby sea turtles are adorable! </p>
+
+	<!-- We can think of certain tags: <br>, <img> as 
+	self closing tags.  Note that the following 'src=' is an 
+	attribute for the img tag; --> 
+	<img src="https://i.ytimg.com/vi/w82xpBR_Z4A/hqdefault.jpg">
+	
+
+	<!-- this is one way to bring in javascript: 
+	(note that we can add script tags to either the head 
+	or body) --> 
+	<script src="javascripts/main.js">
+</script>
+<script>
+$("img").after("<br /><br />Anytime you see a turtle up on top of a fence post, you know he had some help. - Alex Haley") </script>
+
+	
+
+
+	<!-- another way to bring in javascript-->
+	<!--<script> 
+	document.getElementById("test").innerHTML = "The coolest kids of the sea ";
+	</script>-->
+
+	
+
+
+</body>
+</html>

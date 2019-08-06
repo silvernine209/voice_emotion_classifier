@@ -1,0 +1,18 @@
+<form action="/predict_final">
+
+  {% for f in feature_names %}
+      <br>
+      {{ f }}
+      <br>
+      <input type="text" name="{{ f }}" value="{{x_input[loop.index0]}}">
+  {% endfor %}
+  <br>
+  <input type="submit" value="Submit" method="get">
+
+</form>
+
+<p>
+  {% if prediction %}
+    prediction: {{ prediction|safe}}
+  {% endif%}
+</p>
