@@ -1,21 +1,8 @@
-# minimal example from:
-# http://flask.pocoo.org/docs/quickstart/
-
 from flask import Flask
 
-app = Flask(__name__)  # create instance of Flask class
+UPLOAD_FOLDER = "/Users/matthewlee/Desktop/Metis/voice_emotion_classifier/flask-web-apps/upload"
 
-
-@app.route('/')  # the site to route to, index/main in this case
-def hello_world() -> str:
-    """Let's say Hi to the world.
-
-    Returns:
-        str: The HTML we want our browser to render.
-    """
-
-    return 'Hello World!'
-
-
-if __name__ == '__main__':
-    app.run()
+app = Flask(__name__)
+app.secret_key = "secret key"
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024

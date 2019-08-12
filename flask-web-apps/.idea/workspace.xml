@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b075bb33-9455-42a6-b218-4f6f6454df0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/flask-web-apps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/classify.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/classify_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/graphs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../emotion_sound_analyzer-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../emotion_sound_analyzer-Copy1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../emotion_sound_analyzer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../emotion_sound_analyzer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/predict_final.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/predict_final.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1P55XRMx2YsujxSdjsXAjIB4Gly" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Education &amp; Job Related &amp; Personal Info\Job Related\Bootcamp\Metis\voice_emotion_classifier\flask-web-apps\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b075bb33-9455-42a6-b218-4f6f6454df0e" name="Default Changelist" comment="" />
+      <created>1565151155165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565151155165</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
