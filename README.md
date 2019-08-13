@@ -5,7 +5,7 @@
 ## Project Intro/Objective
 Purpose of this project is to take a first step to making a model that can classify human's emotion from voice in real time.  
 Application of this model is broad : Automated customer service, dynamic marketing & advertising, law enforcement, animating characters in virtual world, NLP, and so on.  
-Refer to this [Presentation](https://github.com/silvernine209/voice_emotion_classifier/raw/master/Project%203%20Presentation%20Matthew%20Lee.pptx) for a more comprehensive introduction.
+Refer to this [Presentation Link](https://docs.google.com/presentation/d/1UL2GDdKJL_R4PZBUNNcc3zkf9M_hv5ENqw80CRg7Dxc/edit?usp=sharing) for a more comprehensive introduction.
 
 ### Datasets Used
 * RAVDESS : [Download the Data](https://zenodo.org/record/1188976#.XVDlOi2ZO3V)
@@ -15,7 +15,7 @@ Refer to this [Presentation](https://github.com/silvernine209/voice_emotion_clas
 * Audio Signal Processing
 * LightGBM Classifier
 * Data Visualization
-* Flask App for Production Deployment : [Download Quick Demo](https://github.com/silvernine209/voice_emotion_classifier/raw/master/flask_app_demo.mov)
+* Flask App for Production Deployment : [Demo Youtube Link](https://youtu.be/6blqy-s0VpM)
 
 
 ### Notable Technologies
