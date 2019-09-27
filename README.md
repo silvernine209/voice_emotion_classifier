@@ -15,7 +15,7 @@ Refer to this [Presentation Link](https://docs.google.com/presentation/d/1UL2GDd
 * Feature Engineering
 * LightGBM Classifier
 * Data Visualization
-* Flask App for Production Deployment : [Demo Youtube Link](https://youtu.be/6blqy-s0VpM)
+* Flask App for Production Deployment : [Demo Link - YouTube](https://youtu.be/6blqy-s0VpM)
 
 ## Notable Technologies Used
 * Python 3, Jupyter Notebook
@@ -47,3 +47,5 @@ Below is confusion matrix generated from LightGBM model. It performed very well 
 
 ## Conclusion
 Overall, I was very happy that I was able to build a classifier that would classify different emotions using raw audio files (.wav) without using neural network as base. I pitched my model(LightGBM) as lighter and quicker, but true comparison has to be made in terms of time and performance since quicker execution time might not be able to justify significant performance boost you could potentially get with NN-based architecture. However, with the current model, I'm pretty confident in its ability to generalize due to the pre-processing and feature engineering performed. Furthermore, with more robust and diverse data, LightGBM model will be able to generalize even better.
+
+Again, here is a demo of a working flask app : [Demo Link - YouTube](https://youtu.be/6blqy-s0VpM)
