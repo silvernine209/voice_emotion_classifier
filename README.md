@@ -22,7 +22,7 @@ Refer to this [Presentation Link](https://docs.google.com/presentation/d/1UL2GDd
 * Pandas, Numpy, Matplotlib, Seaborn # Data Processing/Visualization tools
 * LightGBM, Scikit-learn # Models
 * RandomizedSearchCV # Automatic hyperparameter tuning & Cross validation
-* Libroa # Audio signal processing
+* Librosa # Audio signal processing
 * etc. 
 
 ## Feature Engineering
